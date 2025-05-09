@@ -1,8 +1,9 @@
 # WPLaviedesplantes
 Devoir CRÉEZ UN SITE VITRINE AVEC  WORDPRESS
 
-Le fichier SQL à télécharger se trouve dans ce repository
-Les images utilisés pour le projet se trouve dans ce repository
+Le fichier SQL à télécharger se trouve dans ce repository dossier SQL La vie des Plantes
+Les images utilisés pour le projet se trouve dans ce repository dossier Images utilisées
+Les screens du site vitrine réalisé se trouve dans ce repository dossier Screens pages site
 
 Utilisation de Wampserver64
 
